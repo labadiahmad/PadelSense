@@ -1,15 +1,24 @@
 # PadelSense
 
-PadelSense is an AI-powered padel analysis system that uses computer vision to detect players, the ball, and match events.
+PadelSense is an AI-powered padel analysis system that processes match videos and detects court structure, ball movement, events, referee decisions, and visual outputs.
 
 ## Project Modules
-- detection
-- tracking
-- court_detection
-- event_detection
-- scoring
-- visualization
-- utils
+- Video Input Handler
+- Ball Detector
+- Court Detection
+- Mini Court Mapping
+- Event Detector
+- Analysis Module
+- Rule Engine
+- Output Module
+
+## Additional Project Areas
+- datasets
+- training
+- models
+- outputs
+- tests
+- notebooks
 
 ## Team
 - Ahmad Labadi

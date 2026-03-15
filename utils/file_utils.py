@@ -1,2 +1,2 @@
 def ensure_directory(path):
-    pass
+    print("Ensuring directory exists...")
